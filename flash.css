@@ -6,3 +6,28 @@ h1{
     color: blue;
 font-size: 25px;
 }
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#navbar{
+    background-color: black;
+    height: 60px;
+    font-family: Calibri;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#menu{
+    display: flex;
+    gap: 20px;
+}
+
+#logo{
+    font-size: 25px;
+    color: yellow;
+}
